@@ -1,4 +1,4 @@
-# 👨‍💻 John
+# 👨‍💻 Diyor
 
 Cybersecurity | Network Security | Cloud Security Enthusiast
 
@@ -49,4 +49,4 @@ Tools: Nmap, Wireshark, Metasploit, Kali Linux, John the Ripper, Aircrack-ng
 
 ## Contact
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/ddsec00
