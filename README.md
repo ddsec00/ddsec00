@@ -1,53 +1,52 @@
-# 👨‍💻 Hi, I'm Diyor
+# 👨‍💻 John
 
 Cybersecurity | Network Security | Cloud Security Enthusiast
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🎯 Focused on cybersecurity, network security, and cloud security
-- 🌐 Interested in how systems communicate and how attacks are detected
-- 🔐 Building security tools and network analysis projects
-- ☁️ Exploring cloud security fundamentals and architecture
-- 🐍 Using Python for security automation and tooling
+Focused on cybersecurity with an emphasis on network security, system analysis, and security tooling.  
+I build practical projects to understand how networks behave and how security issues are identified in real systems.
 
 ---
 
-## 🔐 Security Projects
+## Projects
 
 ### 🔍 Port Scanner
 Multithreaded TCP port scanner with service detection and JSON reporting.
 
 ### 📄 Log Analyzer
-Detects suspicious activity patterns from system logs.
+Tool for parsing system logs and detecting suspicious or failed login activity.
+
+### 🏦 Other Work
+Banking system, student management system, and DBMS project.
 
 ---
 
-## 🧰 Skills & Interests
+## Skills
 
-- Network Security (TCP/IP, packet analysis)
-- Cybersecurity fundamentals
-- Cloud Security concepts
-- Linux & networking basics
-- Python for security automation
-- Git & version control
+Cybersecurity | Networking | Linux | Python | Security Tools
 
----
+- Network fundamentals (TCP/IP, ports, protocols)
+- Log and traffic analysis
+- Security monitoring concepts
+- Python for automation and tooling
+- Linux system usage
 
-## 🚀 Current Focus
-
-- Packet Sniffer (network traffic analysis)
-- Deepening network security knowledge
-- Security automation tools
-- Hands-on cybersecurity projects
+Tools: Nmap, Wireshark, Metasploit, Kali Linux, John the Ripper, Aircrack-ng
 
 ---
 
-## 📫 Contact
+## Focus
 
-- GitHub: https://github.com/your-username
+- Network security and traffic analysis
+- Security tool development
+- System and log-based detection techniques
+- Cloud security fundamentals
 
 ---
 
-⭐ Learning security by building real-world tools.
+## Contact
+
+GitHub: https://github.com/your-username
