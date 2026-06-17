@@ -16,15 +16,16 @@ Interested in practical security, penetration testing, and backend development.
 
 ### 💻 Development & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,linux,kali,windows,git,github,vscode,bash,flask,mysql,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,kali,windows,git,github,vscode,bash,flask,mysql,postgres" />
 </p>
 
-### 🔐 Cybersecurity Tools
+### 🔐 Cybersecurity & Networking Tools
 - Wireshark — network traffic analysis  
 - Metasploit — penetration testing framework  
 - Nmap — network discovery & scanning  
 - Burp Suite — web application security testing  
-- Kali Linux — security and penetration testing environment  
+- Zabbix — network & server monitoring  
+- Cisco — networking fundamentals & infrastructure (CCNA level)
 
 ---
 
@@ -38,7 +39,7 @@ Interested in practical security, penetration testing, and backend development.
 ---
 
 ## 🚀 Goals
-- Build real-world cybersecurity projects
+- Build real-world cybersecurity and networking projects
 - Develop strong penetration testing skills
-- Gain industry certifications (Cisco, security track)
+- Earn industry certifications (Cisco, cybersecurity track)
 - Improve system-level understanding of networks
