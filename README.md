@@ -25,7 +25,7 @@ Interested in practical security, penetration testing, and backend development.
 - Nmap — network discovery & scanning  
 - Burp Suite — web application security testing  
 - Zabbix — network & server monitoring  
-- Cisco — networking fundamentals & infrastructure (CCNA level)
+- Cisco — networking fundamentals & infrastructure
 
 ---
 
