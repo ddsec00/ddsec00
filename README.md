@@ -1,28 +1,44 @@
 # ddsec00
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Networking+Enthusiast;Cybersecurity+Learner;Linux+Explorer&center=true&width=500&height=50">
+  Cybersecurity • Networking • Linux Systems • Backend Development
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science student
-- 🌐 Passionate about Networking & Cybersecurity
-- 🐧 Linux & system administration learner
-- 🔐 Exploring ethical hacking & AI projects
+## 🧭 Overview
+Computer Science student focused on building strong foundations in networking, cybersecurity, and system administration.  
+Interested in practical security, penetration testing, and backend development.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,windows,git,github,vscode,bash,flask,mysql" />
+## 🛠️ Skills & Tools
+
+### 💻 Development & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,linux,kali,windows,git,github,vscode,bash,flask,mysql,postgres,docker" />
 </p>
 
+### 🔐 Cybersecurity Tools
+- Wireshark — network traffic analysis  
+- Metasploit — penetration testing framework  
+- Nmap — network discovery & scanning  
+- Burp Suite — web application security testing  
+- Kali Linux — security and penetration testing environment  
+
 ---
 
-## 🔥 Current Focus
-- Networking fundamentals (TCP/IP, VLANs, routing)
-- Cybersecurity basics & tools (Wireshark, Linux security)
-- Building real-world IT projects
-- Preparing for certifications (Cisco, Google Cybersecurity)
+## 🎯 Focus Areas
+- Networking (TCP/IP, routing, VLANs, subnetting)
+- Cybersecurity & ethical hacking
+- Linux system administration
+- Backend development with Flask
+- Databases & SQL
+
+---
+
+## 🚀 Goals
+- Build real-world cybersecurity projects
+- Develop strong penetration testing skills
+- Gain industry certifications (Cisco, security track)
+- Improve system-level understanding of networks
